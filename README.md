@@ -25,7 +25,7 @@ The ultimate goal is to make resume screening faster, more accurate, and scalabl
 ## 📊 Visualizations
 
 ### 🧾 Extracted Resume Data
-![Extracted Resume Data](./Extracted_Resume_Data.png)  
+![Extracted Resume Data](images/Extracted%20Resume%20Data.png)
 *DataFrame displaying names, phone numbers, and emails extracted from resumes across formats.*
 
 ---
