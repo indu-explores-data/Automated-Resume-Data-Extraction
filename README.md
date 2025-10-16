@@ -72,12 +72,12 @@ It can be integrated into **Applicant Tracking Systems (ATS)** to enhance hiring
    cd Resume-Extraction
 
 2. pip install -r requirements.txt
-```
-  pip install -r requirements.txt
+```bash
+   pip install -r requirements.txt
 ```
 3. Launch the Jupyter notebook:
-```
-jupyter notebook "Automated Resume Data Extraction.ipynb"
+```bash
+   jupyter notebook "Automated Resume Data Extraction.ipynb"
 ```
 
 ## ▶️ **Usage Instructions**
