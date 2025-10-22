@@ -87,9 +87,11 @@ It can be integrated into **Applicant Tracking Systems (ATS)** to enhance hiring
 - View structured output and sample visualizations.
 - Export the results to CSV/JSON for analysis or ATS integration.
 
-## 🔗 **Connect with Me**
+---
 
-For feedback, collaboration opportunities, or related queries:
+## 🔗 Connect with Me
+
+Let’s connect on LinkedIn for project discussions or data-driven collaborations:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
 
@@ -97,6 +99,5 @@ For feedback, collaboration opportunities, or related queries:
 
 ## 🙌 Feedback & Support
 
-If you found this project helpful or interesting, feel free to ⭐ star the repository and share your thoughts. Contributions and suggestions are always welcome!
-
+If you found this project helpful, please ⭐ star the repository and share your thoughts. Suggestions and contributions are always welcome!
 
