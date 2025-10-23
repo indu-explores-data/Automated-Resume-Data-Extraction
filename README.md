@@ -66,21 +66,21 @@ It can be integrated into **Applicant Tracking Systems (ATS)** to enhance hiring
 
 ## ⚙️ Setup & Installation
 
-1. Clone the repository:
+**1. Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/Resume-Extraction.git
    cd Resume-Extraction
-
-2. pip install -r requirements.txt
+   ```
+**2. Install Required Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-3. Launch the Jupyter notebook:
+**3. Launch the Jupyter notebook:**
    ```bash
    jupyter notebook "Automated Resume Data Extraction.ipynb"
    ```
 
-## ▶️ **Usage Instructions**
+## ▶️ Usage Instructions
 
 - Upload or specify resume files (TXT, DOCX, or PDF).
 - Run each notebook cell to extract and clean the data.
