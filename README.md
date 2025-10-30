@@ -68,8 +68,8 @@ It can be integrated into **Applicant Tracking Systems (ATS)** to enhance hiring
 
 **1. Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Resume-Extraction.git
-   cd Resume-Extraction
+   git clone https://github.com/indu-explores-data/Automated-Resume-Data-Extraction.git
+   cd Automated-Resume-Data-Extraction
    ```
 **2. Install Required Dependencies:**
    ```bash
@@ -82,7 +82,7 @@ It can be integrated into **Applicant Tracking Systems (ATS)** to enhance hiring
 
 ## ▶️ Usage Instructions
 
-- Upload or specify resume files (TXT, DOCX, or PDF).
+- Upload or specify resume files (TXT, DOCX, or PDF) - Refer to the `Resume formats zip folder`.
 - Run each notebook cell to extract and clean the data.
 - View structured output and sample visualizations.
 - Export the results to CSV/JSON for analysis or ATS integration.
